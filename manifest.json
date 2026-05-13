@@ -1,5 +1,4 @@
 {
-  [
     "id": "org.nuvio.iptv.custom",
     "name": "Custom IPTV Channels",
     "description": "Exclusive live channels for Nuvio",
@@ -9,5 +8,4 @@
     "filename": "providers/iptv.js",
     "supportedTypes": ["tv"],
     "enabled": true
-  ]
 }
